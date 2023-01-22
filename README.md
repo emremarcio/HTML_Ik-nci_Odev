@@ -1,4 +1,4 @@
-[https://www.kodluyoruz.org](Kodluyoruz.org) ve [https://www.patika.dev](Patika.dev) tarafından verilen HTML ikinci ödevimdir.
+[Kodluyoruz.org](https://www.kodluyoruz.org) ve [Patika.dev](https://www.patika.dev) tarafından verilen HTML ikinci ödevimdir.
 
 # Kodluyoruz HTML 2. Ödev İçerikleri
 
